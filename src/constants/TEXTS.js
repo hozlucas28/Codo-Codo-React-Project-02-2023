@@ -1,25 +1,32 @@
 export const TEXTS = {
 	header: {
-		title: 'Todos',
+		title: 'To-do lists',
 	},
 
 	main: {
-		todo: {
-			addCheckbox: {
-				input: {
-					placeholders: ['Buy milk', 'Give a lesson', 'Go to the party', 'Do the homework', 'Create a new project'],
-				},
+		toDoList: {
+			deleteBtn: {
+				altText: 'Deletes the to-do list',
+			},
 
-				btn: {
-					text: 'Add',
-					altText: 'Adds a new checkbox to the todo list',
-				},
+			addCheckbox: {
+				text: 'Add',
+				altText: 'Adds a new checkbox to the to-do list',
+			},
+
+			deleteCheckbox: {
+				altText: 'Deletes the checkbox from the to-do list',
 			},
 		},
 
-		addTodoBtn: {
-			text: 'Add todo',
-			altText: 'Adds a new todo list',
+		addToDoListBtn: {
+			text: 'Add to-do list',
+			altText: 'Adds a new to-do list',
+		},
+
+		deleteToDoListsBtn: {
+			text: 'Delete all',
+			altText: 'Deletes all to-do lists',
 		},
 	},
 
