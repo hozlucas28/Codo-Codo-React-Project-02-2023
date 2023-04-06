@@ -13,7 +13,6 @@ import { setLocalStorage } from './utils/setLocalStorage.js'
 function App() {
 	const localToDoLists = getLocalStorage('To_Do_Lists') ?? TO_DO_LISTS
 	const [toDoLists, setToDoLists] = useState(localToDoLists)
-	console.log(toDoLists)
 
 	const toDoListsEntries = Object.entries(toDoLists)
 	const thereAreToDoLists = toDoListsEntries.length > 0
