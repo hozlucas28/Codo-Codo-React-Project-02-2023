@@ -1,0 +1,32 @@
+.container {
+	@apply mt-auto
+        opacity-0
+        transition-opacity
+        duration-200;
+}
+
+.label {
+	@apply flex
+        gap-2;
+}
+
+.input {
+	@apply grow
+        rounded-sm
+        bg-neutral-700
+        pl-2
+        focus-visible:outline
+        focus-visible:outline-cyan-700/80;
+}
+
+.addBtn {
+	@apply rounded-sm
+        px-3
+        font-semibold
+        capitalize
+        transition
+        duration-200
+	    ease-linear
+	    hover:bg-neutral-50
+        hover:text-cyan-700;
+}

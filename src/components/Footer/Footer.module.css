@@ -1,0 +1,16 @@
+.container {
+	@apply mx-8
+		mb-8
+		mt-16
+		flex
+		flex-wrap
+        justify-between
+        gap-4
+		capitalize
+		text-neutral-600;
+}
+
+.container * {
+	@apply max-[446px]:flex-auto
+		max-[446px]:text-center;
+}

@@ -1,0 +1,10 @@
+.container {
+	@apply rounded-sm
+        bg-transparent
+        text-2xl
+        font-medium
+        capitalize
+        tracking-wider
+        focus-visible:outline
+        focus-visible:outline-cyan-700/80;
+}

@@ -1,0 +1,15 @@
+.container {
+	@apply flex
+        animate-zoomIn
+        flex-col
+        gap-3
+        rounded-lg
+        bg-neutral-800/50
+        p-3
+        text-left
+        text-neutral-50
+        drop-shadow-xl
+        transition-all
+        duration-200
+        hover:drop-shadow-2xl;
+}

@@ -1,0 +1,12 @@
+.container {
+	@apply absolute
+        my-8
+		w-full
+		select-none
+		text-center
+		indent-[.9em]
+		text-2xl
+		uppercase
+		tracking-[.9em]
+		text-neutral-800;
+}

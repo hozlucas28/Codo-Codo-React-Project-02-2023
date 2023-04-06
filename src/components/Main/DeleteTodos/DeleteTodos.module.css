@@ -1,0 +1,20 @@
+.container {
+	@apply h-8
+		w-28
+		animate-zoomIn
+		rounded-full
+		font-semibold
+		capitalize
+		text-neutral-900
+		drop-shadow-lg
+		transition-all
+		duration-200
+		ease-linear
+		hover:bg-neutral-50
+		hover:text-red-600
+		hover:outline
+		hover:outline-1
+		hover:outline-offset-4
+		hover:outline-red-600
+		hover:drop-shadow-2xl;
+}

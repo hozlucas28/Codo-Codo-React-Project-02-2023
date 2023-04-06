@@ -1,0 +1,6 @@
+.container {
+	@apply grid
+        grid-cols-1
+        gap-8
+        2xl:grid-cols-2;
+}

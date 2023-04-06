@@ -1,0 +1,7 @@
+.container {
+	@apply fixed
+        h-1
+        bg-gradient-to-r
+        from-emerald-200
+        to-emerald-600;
+}
