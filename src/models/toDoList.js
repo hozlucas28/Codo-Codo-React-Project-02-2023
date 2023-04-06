@@ -1,5 +1,5 @@
 export class ToDoList {
-	constructor({ title = 'New Todo List', checkboxs = [] }) {
+	constructor({ title = 'To-do list', checkboxs = [] }) {
 		this.title = title
 		this.checkboxs = checkboxs
 	}
