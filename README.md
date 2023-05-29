@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-    <strong>(click on image to get a live test or watch a <a href="https://youtu.be/sBIjLfVuv9U" target="_blank">video preview</a>)</strong>
+    <strong>(watch a <a href="https://codo-codo-react-project-02-2023.vercel.app/" target="_blank">live test</a> or a <a href="https://youtu.be/sBIjLfVuv9U" target="_blank">video preview</a>)</strong>
 </p>
 
 <h2>
