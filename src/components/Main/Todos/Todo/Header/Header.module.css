@@ -1,5 +1,6 @@
 .container {
-	@apply rounded-sm
+	@apply w-full
+        rounded-sm
         bg-transparent
         text-2xl
         font-medium
