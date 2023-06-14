@@ -86,6 +86,12 @@
         <li>
             <a href="https://github.com/hozlucas28/Codo-Codo-React-Project-01-2023" target="_blank">Repository of first project</a>
         </li>
+        <li>
+            <a href="https://github.com/hozlucas28/Codo-Codo-React-Firebase-Practice-2023" target="_blank">Repository of Firebase practice</a>
+        </li>
+        <li>
+            <a href="https://github.com/hozlucas28/Codo-Codo-React-Flix-Clone-2023" target="_blank">Repository of final project (Netflix clone)</a>
+        </li>
     </ul>
 </p>
 
