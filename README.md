@@ -19,7 +19,7 @@
 
 <p align="center">
     <a href="https://codo-codo-react-project-02-2023.vercel.app/" target="_blank">
-        <img src="https://user-images.githubusercontent.com/88015479/230488226-8da64087-5152-41d4-91f5-d51b8e3afd5e.png" width="800">
+        <img src="./.github/preview.png" width="800">
     </a>
 </p>
 
