@@ -31,7 +31,7 @@ export const TEXTS = {
 	},
 
 	footer: {
-		copyright: 'Copyright © 2023 lucas hoz',
+		copyright: 'Copyright © 2024 lucas hoz',
 		sourceCode: '[ View source code ]',
 	},
 }
