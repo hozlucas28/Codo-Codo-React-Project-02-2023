@@ -19,12 +19,14 @@
 
 <p align="center">
     <a href="https://codo-codo-react-project-02-2023.vercel.app/" target="_blank">
-        <img src="./.github/preview.png" width="800">
-    </a>
+		<img src="./.github/preview.png" width="800">
+		<br />
+		Visit project
+	</a>
 </p>
 
 <p align="center">
-    <strong>(watch a <a href="https://codo-codo-react-project-02-2023.vercel.app/" target="_blank">live test</a> or a <a href="https://youtu.be/sBIjLfVuv9U" target="_blank">video preview</a>)</strong>
+    <a href="https://youtu.be/sBIjLfVuv9U" target="_blank">(demonstration video)</a>
 </p>
 
 <h2>
